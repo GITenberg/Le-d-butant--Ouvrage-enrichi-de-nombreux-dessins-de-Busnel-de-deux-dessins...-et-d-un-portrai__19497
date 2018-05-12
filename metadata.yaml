@@ -1,0 +1,30 @@
+_repo: Le-d-butant--Ouvrage-enrichi-de-nombreux-dessins-de-Busnel-de-deux-dessins...-et-d-un-portrai__19497
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bessette, Arsène
+    alias: Bessette, Arsene
+    birthdate: 1873
+    deathdate: 1921
+    gutenberg_agent_id: '8710'
+    url: http://www.gutenberg.org/2009/agents/8710
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19497'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Québec (Province) -- Fiction'
+- !lcc 'PQ'
+title: "Le débutant: Ouvrage enrichi de nombreux dessins de Busnel, de deux dessins...\
+  \ et d'un portrait de l'auteur par St-Charles\r\nRoman de moeurs du journalisme\
+  \ et de la politique dans la\r\nprovince de Québec"
+url: http://www.gutenberg.org/ebooks/19497
